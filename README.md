@@ -10,9 +10,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO DE SISTEMAS (EN ETAPA DE GRADUACION)
+🎓 INGENIERO DE SISTEMAS 
 
-Como estudiante de ingeniería de sistemas próximo a graduarse, poseo un conjunto sólido de habilidades técnicas y una amplia experiencia en diversas tecnologías relevantes para el desarrollo de software. Mi experiencia incluye un dominio experto de JavaScript y su ecosistema, así como el uso avanzado de bibliotecas y frameworks como React para la creación de interfaces de usuario dinámicas y eficientes.
+Como ingeniero de sistemas, poseo un conjunto sólido de habilidades técnicas y una amplia experiencia en diversas tecnologías relevantes para el desarrollo de software. Mi experiencia incluye un dominio experto de JavaScript y su ecosistema, así como el uso avanzado de bibliotecas y frameworks como React para la creación de interfaces de usuario dinámicas y eficientes.
 
 Además, tengo experiencia en el desarrollo de aplicaciones del lado del servidor utilizando Node.js, donde he trabajado con frameworks como NestJS y he implementado servicios RESTful utilizando TypeScript para una mayor seguridad y mantenibilidad del código. He utilizado Docker para crear entornos de desarrollo y despliegue consistentes y reproducibles, lo que ha facilitado la colaboración en equipos y la implementación ágil de soluciones.
 
